@@ -1,4 +1,0 @@
-Bouncing-Balls
-==============
-
-Bouncing Balls
